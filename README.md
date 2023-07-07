@@ -10,6 +10,8 @@
 
 #include <bits/stdc++.h> 
 
+private:
+
 class Queue {
     int *arr;
     int qfront;
